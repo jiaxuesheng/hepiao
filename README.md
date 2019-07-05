@@ -155,7 +155,7 @@
 - 课堂作业：
          电机转向电路图及代码
 
-		 ![](img/car.png.png)
+		 ![](img/car.png)
 		 
 		 ```
 		 //f前进
@@ -231,7 +231,7 @@
 -课后作业：
          7位数码显示管
 
-		 ![](7weishumaguan.png.png)
+		 ![](7weishumaguan.png)
 
 		 ```
 		 void setup()
@@ -371,7 +371,7 @@
         
 		Morse 电路
 		  
-		  ![](Morsedianlu.png.png)
+		  ![](Morsedianlu.png)
 
 		  ```
 		  
