@@ -30,8 +30,8 @@
         注册Github账户  git@github.com:jiaxuesheng/hepiao.git
 	下载安装三个软件：
 		                Arduino
-						processing
-						fritzing
+				processing
+				fritzing
 
 ## 7月3日 第二天   软件操作
 
