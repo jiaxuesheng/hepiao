@@ -10,6 +10,7 @@
 - 为什么要学习开源硬件
 - 如何学习开源硬件
 - 三个软件
+     
      aiduino
 	 ![](img/arduino.png)
 
@@ -27,7 +28,7 @@
 - 介绍了Github
 - 作业：
         注册Github账户  git@github.com:jiaxuesheng/hepiao.git
-		下载安装三个软件：
+	下载安装三个软件：
 		                Arduino
 						processing
 						fritzing
